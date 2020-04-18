@@ -1,7 +1,7 @@
 import math
 
-l1 = input().split(" ")
-l2 = input().split(" ")
+line1 = input().split(" ")
+line2 = input().split(" ")
 
 x1,y1 = l1
 x2,y2 = l2
